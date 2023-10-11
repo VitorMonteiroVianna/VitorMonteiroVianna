@@ -1,4 +1,4 @@
-#Ola, sou o Vitor - Desenvolvedor Backend!
+# Ola, sou o Vitor - Desenvolvedor Backend!
 
 - Sou dev Backend e trabalho principalmente com Python e C#, e tenho experiência criando e dando manutenção em Aplicações Web com .NET, mas principalmente automatizando processos complexos e repetitivos com python, fazendo com que seja economizado recursos e evitando erros humanos.
 
